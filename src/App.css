@@ -1,0 +1,142 @@
+.App{
+height: 100vh;
+width: 100%;
+}
+
+.imgg{
+  margin-right: -55px;
+  height: 750px;
+  width: 1534px;
+}
+.mail{
+  position: absolute;
+width: 243px;
+height: 31px;
+top: 6px;
+left: 70px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+color: #FFFFFF;
+
+}
+.para
+{
+position: absolute;
+width: 698px;
+height: 78px;
+top: 20px;
+translate: (-50%);
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 97px;
+margin-left: 550px;
+color: #FFFFFF;
+}
+
+.rect{
+top: 250px;
+left: 550px;
+position: absolute;
+width: 882px;
+height: 251px;
+
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+}
+
+.link1
+{position: absolute;
+  width: 41px;
+  height: 35px;
+  bottom: 50px;
+  right: 340px;
+}
+
+.link2
+{position: absolute;
+  width: 41px;
+  height: 35px;
+  bottom: 50px;
+  right: 260px;
+}
+.link3
+{position: absolute;
+  width: 41px;
+  height: 35px;
+  bottom: 50px;
+  right: 180px;
+}
+.link4
+{position: absolute;
+  width: 41px;
+  height: 35px;
+  bottom: 50px;
+  right: 100px;
+}
+.button {
+  margin-left: 650px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-size: 25px;
+  font-weight: bolder;
+ margin-top: 20px;
+  background-color: white; 
+   border-radius: 50px;
+   width: 163px;
+   height:53px ;
+  border: none;
+  color: black;
+  padding-bottom: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  
+  
+}
+
+.mails
+{
+margin-bottom:  150px;
+width: 42px;
+height: 39px;
+}
+.w3-input
+{
+  margin-top: 55px;
+  width: 727px;
+  height: 50px;
+  margin-left: 77px;
+  color: #FFFFFF;
+}
+input[type="text"]
+{color: #FFFFFF;
+    background: transparent;
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    text-align: center;
+    
+}
+
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style:double;
+  background-color: white;
+
+}
+
+.no-outline:focus {
+  outline:#FFFFFF;
+}
+
